@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\WebApplication1",
-    "\\WebApplication1\\WebApplication1"
+    "\\WebApplication1\\WebApplication1",
+    "\\WebApplication1\\WebApplication1\\bin",
+    "\\WebApplication1\\WebApplication1\\bin\\Debug",
+    "\\WebApplication1\\WebApplication1\\Controllers",
+    "\\WebApplication1\\WebApplication1\\Migrations"
   ],
-  "SelectedNode": "\\WebApplication1\\WebApplication1\\Startup.cs",
+  "SelectedNode": "\\WebApplication1\\WebApplication1\\Migrations\\20181107062526_Initial.cs",
   "PreviewInSolutionExplorer": false
 }
